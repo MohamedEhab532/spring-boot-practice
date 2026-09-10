@@ -14,7 +14,8 @@ public class Main {
         SpringApplication.run(Main.class,args);
     }
 
-    // new comment test
+// new comment test
+
 // Java Objects to JSON Objects Example
     @GetMapping("/greet")
     public GreetResponse greet(){
